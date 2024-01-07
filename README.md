@@ -6,18 +6,32 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 
 ## Table of Contents
 - [Independent Projects](#independent-projects)
-- [Class Projects](#class-projects)
+- [Independent Course Projects](#independent-course-projects)
+- [School Projects](#class-projects)
 
 ***
 
 # Independent Projects
 
-1. a
-2. b
+1. 
+2. 
 
 ***
 
-# Class Projects
 
-1. a
-2. b
+# Independent Course Projects
+
+1. [Google Data Analytics Specialization Course](#google-data-analytics-specialization):
+   a. [Cyclistic Ride Share]()
+   b. [Bellabeat Wellness Technology]()
+2. [DataCamp SQL Tracks](#datacamp-sql-tracks):
+   a. [Analyzing Students' Mental Health]([#analyzing-students-mental-health](https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health)https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health)
+5. 
+
+***
+
+# School Projects
+
+1. 
+2. 
+
