@@ -7,7 +7,7 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 ## Table of Contents
 - [Independent Projects](#independent-projects)
 - [Independent Course Projects](#independent-course-projects)
-- [School Projects](#class-projects)
+- [School Projects](#school-projects)
 
 ***
 
