@@ -33,5 +33,5 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 # School Course Projects
 
 1. [Data Science for Economists (ECON 104 at UCLA)](https://github.com/kivatmojo/econ_104)  
-   a. [Project 1: Model Selection]() (In Progress) // Tools: R Programming 
+   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling (In Progress) // Tools: R Programming 
 
