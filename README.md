@@ -25,7 +25,7 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
    a. Cyclistic Ride Share (In Progress) // Tools: SQL, Tableau  
    b. Bellabeat Wellness Technology (In Progress) // Tools: SQL, Tableau
 2. [DataCamp SQL Tracks](https://github.com/kivatmojo/datacamp_sql/tree/main#datacamp-sql-tracks)  
-   a. [Analyzing Students' Mental Health](https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health) (Conclusion TBD) // Tools: SQL
+   a. [Analyzing Students' Mental Health](https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health) (Conclusion TBD) // Tools: SQL  
    b. 
 
 ***
