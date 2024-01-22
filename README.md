@@ -22,7 +22,7 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 # Independent Course Projects
 
 1. [Google Data Analytics Specialization Course](https://github.com/kivatmojo/google_data_analytics#google-data-analytics-specialization)  
-   a. Cyclistic Ride Share (In Progress) // Tools: SQL, Tableau
+   a. Cyclistic Ride Share (In Progress) // Tools: SQL, Tableau  
    b. Bellabeat Wellness Technology (In Progress) // Tools: SQL, Tableau
 2. [DataCamp SQL Tracks](https://github.com/kivatmojo/datacamp_sql/tree/main#datacamp-sql-tracks)  
    a. [Analyzing Students' Mental Health](https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health) (Conclusion TBD) // Tools: SQL
@@ -33,5 +33,5 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 # School Course Projects
 
 1. [Data Science for Economists (ECON 104 at UCLA)](https://github.com/kivatmojo/econ_104)  
-   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling (In Progress) // Tools: R Programming 
+   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling for Music Streams on Spotify (In Progress) // Tools: R Programming 
 
