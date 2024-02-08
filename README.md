@@ -31,7 +31,7 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
    a. [Analyzing Students' Mental Health](https://github.com/kivatmojo/datacamp/blob/main/student_mental_health/README.md#analyzing-students-mental-health) (Conclusion TBD) // Tools: SQL  
    b. Analyzing Motorcycle Part Sales (Not Started) // Tools: SQL
 
-2. Course: SQL Fundamentals
+2. Course: SQL Fundamentals  
    a. 
 
 ***
