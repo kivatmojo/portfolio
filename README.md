@@ -13,11 +13,10 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 
 # School Course Projects
 
-1. Class: [Data Science for Economists](https://github.com/kivatmojo/econ_104) (ECON 104 at UCLA)  
-   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling for Music Streams on Spotify (In Progress) // Tools: R Programming  
-   b. Project 2  
-   c. Project 3  
-   d. Project 4
+1. Class: [Data Science for Economists with R Programming](https://github.com/kivatmojo/econ_104) (ECON 104 at UCLA)  
+   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling for Music Streams on Spotify // Packages: 
+   b. Project 2: Time Series Analysis on Tesla and NVIDIA stock // Packages:  
+   c. Project 3: 
      
 2. Class: Economic Forecasting (ECON 144 at UCLA)
 
