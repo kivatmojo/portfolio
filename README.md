@@ -5,20 +5,23 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 ***
 
 ## Table of Contents
-- [Independent Projects](#independent-projects)
-- [Independent Course Projects](#independent-course-projects)
 - [School Projects](#school-projects)
+- [Independent Course Projects](#independent-course-projects)
+- [Independent Projects](#independent-projects)
 
 ***
 
-# Independent Projects
+# School Course Projects
 
-1. 
-2. 
+1. Class: [Data Science for Economists](https://github.com/kivatmojo/econ_104) (ECON 104 at UCLA)  
+   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling for Music Streams on Spotify (In Progress) // Tools: R Programming  
+   b. Project 2  
+   c. Project 3  
+   d. Project 4
+     
+2. Class: Economic Forecasting (ECON 144 at UCLA)
 
-***
-
-
+*** 
 # Independent Course Projects
 
 ## [Google](https://github.com/kivatmojo/google_data_analytics#google)
@@ -32,18 +35,15 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
    b. Analyzing Motorcycle Part Sales (Not Started) // Tools: SQL
 
 2. Course: SQL Fundamentals  
-   a. 
+   a.
+   
+***
+
+# Independent Projects
+
+1. 
+2. 
 
 ***
 
-# School Course Projects
 
-1. Class: [Data Science for Economists](https://github.com/kivatmojo/econ_104) (ECON 104 at UCLA)  
-   a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling for Music Streams on Spotify (In Progress) // Tools: R Programming  
-   b. Project 2  
-   c. Project 3  
-   d. Project 4
-  
-2. Class: Healthcare Economics (ECON 131 at UCLA)
-  
-4. Class: Economic Forecasting (ECON 144 at UCLA)  
