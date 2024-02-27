@@ -29,13 +29,15 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
    b. [Case Study 2](https://github.com/kivatmojo/google_data_analytics/blob/main/bellabeat_wellness/README.md): Bellabeat Wellness Technology (In Progress) // Tools: SQL, Tableau
   
 ## [DataCamp](https://github.com/kivatmojo/datacamp)
-1. Track: [DataCamp Data Analytics in SQL](https://github.com/kivatmojo/datacamp#data-analyst-in-sql-track)  
+1. Track: [Data Analytics in SQL](https://github.com/kivatmojo/datacamp#data-analyst-in-sql-track)  
    a. [Analyzing Students' Mental Health](https://github.com/kivatmojo/datacamp/blob/main/student_mental_health/README.md#analyzing-students-mental-health) (Conclusion TBD) // Tools: SQL  
    b. Analyzing Motorcycle Part Sales (Not Started) // Tools: SQL
 
 2. Course: SQL Fundamentals  
    a.
-   
+
+3. Track: Data Analytics in Python
+   a. 
 ***
 
 # Independent Projects
