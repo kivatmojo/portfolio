@@ -34,10 +34,8 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
    b. Analyzing Motorcycle Part Sales (Not Started) // Tools: SQL
 
 2. Course: SQL Fundamentals
-   a.
 
-4. Track: Data Analytics in Python
-   a. 
+3. Track: Data Analytics in Python
 ***
 
 # Independent Projects
