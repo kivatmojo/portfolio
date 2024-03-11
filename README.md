@@ -16,7 +16,7 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
 1. Class: [Data Science for Economists with R Programming](https://github.com/kivatmojo/econ_104) - ECON 104 at UCLA (Winter 2024)  
    a. [Project 1](https://github.com/kivatmojo/econ_104/blob/main/Project_1/README.md): Multiple Regression Modelling for Predicting Music Streams on Spotify    
    b. [Project 2](https://github.com/kivatmojo/econ_104/blob/main/Project_2/README.md): Time Series Analysis and Modelling on Tesla and NVIDIA Stock   
-   c. [Project 3 - Part 1](https://github.com/kivatmojo/econ_104/blob/main/Project_3/part1/README.md): Panel Data Modelling on Market Cap
+   c. [Project 3 - Part 1](https://github.com/kivatmojo/econ_104/blob/main/Project_3/part1/README.md): Panel Data Modelling on Market Cap  
    d. [Project 3 - Part 2](https://github.com/kivatmojo/econ_104/blob/main/Project_3/part2/README.md): Qualitative Dependent Variable Modelling on NFL Season Records 
      
 3. Class: Economic Forecasting - ECON 144 at UCLA (Spring 2024)
