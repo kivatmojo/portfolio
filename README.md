@@ -19,7 +19,9 @@ Welcome to my portfolio page. This is where I will be listing all my data analys
    c. [Project 3 - Part 1](https://github.com/kivatmojo/econ_104/blob/main/Project_3/part1/README.md): Panel Data Modelling on Market Cap  
    d. [Project 3 - Part 2](https://github.com/kivatmojo/econ_104/blob/main/Project_3/part2/README.md): Qualitative Dependent Variable Modelling on NFL Season Records 
      
-3. Class: Economic Forecasting - ECON 144 at UCLA (Spring 2024)
+3. Class: [Economic Forecasting](https://github.com/kivatmojo/econ_144) - ECON 144 at UCLA (Spring 2024)
+   a. [Project 1](https://github.com/kivatmojo/econ144/blob/main/project1/README.md)
+   b. [Project 2](https://github.com/kivatmojo/econ144/blob/main/project2/README.md)
 
 *** 
 # Independent Course Projects
